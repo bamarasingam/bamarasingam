@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 I'm Brandon Amarasingam!</h1>
 
-===================================
-
 I'm an avid Development Engineer working on my web development & blockchain software engineering skills.
 
 * 🌍  I'm based in Toronto, Canada
