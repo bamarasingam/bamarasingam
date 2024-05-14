@@ -4,13 +4,13 @@ Hi 👋 My name is Brandon Amarasingam!
 I'm an avid Development Engineer working on my web development & blockchain software engineering skills.
 
 * 🌍  I'm based in Toronto, Canada
-* ✉️  You can contact me at [pravin.selvarajah.eng@gmail.com](mailto:pravin.selvarajah.eng@gmail.com)
+* ✉️  You can contact me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
 * 🧠  I'm learning PatrickAlphaC's Blockchain, Solidity, and Full Stack Web3 Development with JavaScript
 * 💻  Continuously improving my software skills by building side projects & using tools such as Scrimba, AlgoExpert, NeetCode, and CryptoZombies!
 
 ### Socials
 [![Brandon Amarasingam Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonamarasingam/)
-[![Brandon Amarasingam Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PravinSelva5)
+[![Brandon Amarasingam Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bamarasingam)
 [![Brandon Amarasingam Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bamarasingam)
 
 ### Skills
@@ -40,6 +40,6 @@ I'm an avid Development Engineer working on my web development & blockchain soft
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PravinSelva5"><img src="https://github-readme-stats.vercel.app/api?username=PravinSelva5&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PravinSelva5's GitHub stats" /></a>
+<a href="http://www.github.com/brandonamarasingam"><img src="https://github-readme-stats.vercel.app/api?username=brandonamarasingam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="brandonamarasingam's GitHub stats" /></a>
 
-<a href="http://www.github.com/PravinSelva5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PravinSelva5&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/brandonamarasingam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonamarasingam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
