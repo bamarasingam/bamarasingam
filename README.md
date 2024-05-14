@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 I'm Brandon Amarasingam!</h1>
 
-I'm an avid Data Scientist working on my ML & Blockchain software engineering skills.
-
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
 * 🧠  I'm learning PatrickAlphaC's Blockchain, Solidity, and Full Stack Web3 Development with JavaScript
