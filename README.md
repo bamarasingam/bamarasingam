@@ -2,6 +2,7 @@
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
+* 🌐 Check out my site: [bamarasingam.ca](http://bamarasingam.ca)
 * 🧠  I'm learning PatrickAlphaC's Blockchain, Solidity, and Full Stack Web3 Development with JavaScript
 * 💻  Continuously improving my software skills by building side projects & using tools such as Scrimba, AlgoExpert, NeetCode, and CryptoZombies!
 
