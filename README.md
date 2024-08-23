@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋 I'm Brandon Amarasingam!</h1>
 
-* 🌍  I'm based in Toronto, Canada
+<p align="center">
+  <strong>Data Scientist / Machine Learning Engineer</strong>
+</p>
+
+* 🌍 I'm based in Toronto, Canada
 * ✉️  You can contact me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
-* 🧠  I'm learning PatrickAlphaC's Blockchain, Solidity, and Full Stack Web3 Development with JavaScript
-* 💻  Continuously improving my software skills by building side projects & using tools such as Scrimba, AlgoExpert, NeetCode, and CryptoZombies!
+* 🧠 I'm diving into data science and machine learning through hands-on projects, exploring advanced techniques in predictive modeling, natural language processing, and deep learning.
+* 💻 Continuously honing my skills by building side projects and using tools such as Scrimba, AlgoExpert, NeetCode, and Kaggle.
+* 🔍 I'm learning blockchain, Solidity, and full-stack Web3 development with JavaScript, integrating data-driven approaches where possible.
 
 ### Socials
 [![Brandon Amarasingam Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonamarasingam/)
