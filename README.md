@@ -6,9 +6,10 @@
 
 * 🌍 I'm based in Toronto, Canada
 * ✉️  You can contact me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
-* 🧠 I'm diving into data science and machine learning through hands-on projects, exploring advanced techniques in predictive modeling, natural language processing, and deep learning.
-* 💻 Continuously honing my skills by building side projects and using tools such as Scrimba, AlgoExpert, NeetCode, and Kaggle.
+* 🧠 With a strong foundation in mathematics and statistics, I leverage analytical thinking to solve complex problems and drive data-driven insights.
+* 💻 Continuously honing my skills by exploring advanced techniques in predictive modelling, machine learning algrotihms, new AI advancements, building side projects and using tools such as Scrimba, AlgoExpert, NeetCode, and Kaggle.
 * 🔍 I'm learning blockchain, Solidity, and full-stack Web3 development with JavaScript, integrating data-driven approaches where possible.
+* 📄 Know about my experiences https://bamarasingam.ca/
 
 ### Socials
 [![Brandon Amarasingam Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonamarasingam/)
