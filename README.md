@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Brandon Amarasingam!</h1>
 
-<p align="center" style="font-size: 24px;">
+<p align="center" style="font-size: 30px;">
   <strong>Data Scientist / Machine Learning Engineer</strong>
 </p>
 
