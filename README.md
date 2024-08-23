@@ -6,7 +6,7 @@
 
 * 🌍 I'm based in Toronto, Canada
 * ✉️  You can contact me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
-* 🧠 With a strong background in mathematics and statistics, I leverage analytical thinking to develop models, solve complex problems and generate data-driven insights
+* 🧠 With a strong background in mathematics and statistics, I leverage analytical thinking to manipulate and analyze data, develop and fine tune models, solve complex problems and generate data-driven insights
 * 💻 Continuously advancing in predictive modeling, machine learning algorithms, and cutting-edge AI developments <!-- building side projects and using tools such as Scrimba, AlgoExpert, NeetCode, and Kaggle. -->
 * 🔍 Exploring Solidity and full-stack Web3 development, integrating data-driven approaches where possible
 * 📄 Know about my experiences https://bamarasingam.ca/
