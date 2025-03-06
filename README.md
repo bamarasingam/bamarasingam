@@ -15,8 +15,7 @@ With a robust foundation in mathematics and statistics, I excel in data manipula
 - AI Engineering: Focused on developing and deploying advanced AI solutions, integrating cutting-edge technologies to drive innovation and efficiency.  
 
 🔍 Exploring new frontiers:  
-- Solidity: Delving into smart contract development and blockchain technology.  
-- Full-stack Web3: Integrating data-driven approaches into decentralized applications.  
+- Solidity and Full-stack Web3: Delving into blockchain technology and decentralized applications.
 
 Driven by a passion for technology and a commitment to continuous learning, I am dedicated to pushing the boundaries of AI and data science.
 * ✉️  You can contact me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
