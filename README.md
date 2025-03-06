@@ -4,11 +4,21 @@
   <strong>AI/ML Engineer & Data Scientist</strong>
 </p>
 
-* 🎓 I'm a Mathematics and Statistics graduate from Carleton University
-* 🌍 Based in Toronto, Canada
-* 🧠 With a strong background in mathematics and statistics, I leverage analytical thinking to manipulate and analyze data, develop and fine tune models, solve complex problems and generate data-driven insights
-* 💻 Continuously advancing in predictive modeling, machine learning algorithms, and cutting-edge AI developments <!-- building side projects and using tools such as Scrimba, AlgoExpert, NeetCode, and Kaggle. -->
-* 🔍 Exploring Solidity and full-stack Web3 development, integrating data-driven approaches where possible
+🎓 Mathematics and Statistics Graduate from Carleton University  
+🌍 Based in Toronto, Canada  
+
+With a robust foundation in mathematics and statistics, I excel in data manipulation, model development, and problem-solving. My expertise lies in leveraging analytical thinking to generate data-driven insights and drive informed decision-making.  
+
+💻 Specializations:  
+- Data Science: Proficient in data analysis, visualization, and statistical modeling to extract meaningful insights from complex datasets.  
+- Machine Learning: Experienced in designing, implementing, and fine-tuning algorithms to improve model accuracy and performance.  
+- AI Engineering: Focused on developing and deploying advanced AI solutions, integrating cutting-edge technologies to drive innovation and efficiency.  
+
+🔍 Exploring new frontiers:  
+- Solidity: Delving into smart contract development and blockchain technology.  
+- Full-stack Web3: Integrating data-driven approaches into decentralized applications.  
+
+Driven by a passion for technology and a commitment to continuous learning, I am dedicated to pushing the boundaries of AI and data science.
 * ✉️  You can contact me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
 * 📄 Know about my experiences https://bamarasingam.ca/
 
