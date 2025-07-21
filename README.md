@@ -19,7 +19,7 @@ With a robust foundation in mathematics and statistics, I excel in data manipula
 
 Driven by a passion for technology and a commitment to continuous learning, I am dedicated to pushing the boundaries of AI and data science.
 * ✉️  You can contact me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
-* 📄 Know about my experiences https://bamarasingam.ca/
+* 📄 Know about my experiences https://bamarasingam.github.io/
 
 ### Socials
 [![Brandon Amarasingam Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonamarasingam/)
