@@ -4,22 +4,25 @@
   <strong>AI/ML Engineer & Data Scientist</strong>
 </p>
 
-🎓 Mathematics and Statistics Graduate from Carleton University  
-🌍 Based in Toronto, Canada  
+🎓 Master of Science (MS) in AI & ML @ Purdue University (in progress) 📐 Bachelor of Mathematics (BMath) in Statistics, Carleton University 🌍 Based in Toronto, Canada
 
-With a robust foundation in mathematics and statistics, I excel in data manipulation, model development, and problem-solving. My expertise lies in leveraging analytical thinking to generate data-driven insights and drive informed decision-making.  
+I build machine learning systems end to end — framing the problem, wrangling the data, training and evaluating the model, and shipping it somewhere it can actually be used. My background is in mathematics and statistics, and it's the part I lean on most: it's usually the difference between a model that looks good on a validation set and one that holds up once real data hits it.
 
-💻 Specializations:  
-- Data Science: Proficient in data analysis, visualization, and statistical modeling to extract meaningful insights from complex datasets.  
-- Machine Learning: Experienced in designing, implementing, and fine-tuning algorithms to improve model accuracy and performance.  
-- AI Engineering: Focused on developing and deploying advanced AI solutions, integrating cutting-edge technologies to drive innovation and efficiency.  
+💻 What I work on:
 
-🔍 Exploring new frontiers:  
-- Solidity and Full-stack Web3: Delving into blockchain technology and decentralized applications.
+Machine Learning — designing, training, and fine-tuning models; feature engineering, hyperparameter search, and the evaluation work that tells you whether an improvement is real or noise.
+AI Engineering — taking models from notebook to production: APIs, containerization, cloud deployment, and monitoring the things that quietly drift after launch.
+Data Science — exploratory analysis, statistical modeling, and visualization, with an emphasis on making the results legible to the people who have to act on them.
+
+🔍 Currently exploring:
+
+Solidity and full-stack Web3 — smart contract development and the tooling around decentralized applications.
+
+Always learning, always building. If you're working on something interesting, I'd like to hear about it.
 
 Driven by a passion for technology and a commitment to continuous learning, I am dedicated to pushing the boundaries of AI and data science.
-* ✉️  You can contact me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
-* 📄 Know about my experiences https://bamarasingam.github.io/
+* ✉️ Reach me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
+* 📄 More about my work at [bamarasingam.ca](https://www.bamarasingam.ca/)
 
 ### Socials
 [![Brandon Amarasingam Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonamarasingam/)
