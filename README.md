@@ -4,7 +4,9 @@
   <strong>AI/ML Engineer & Data Scientist</strong>
 </p>
 
-🎓 Master of Science (MS) in AI & ML @ Purdue University (in progress) 📐 Bachelor of Mathematics (BMath) in Statistics, Carleton University 🌍 Based in Toronto, Canada
+🎓 Master of Science (MS) in AI & ML @ Purdue University (in progress) 
+📐 Bachelor of Mathematics (BMath) in Statistics, Carleton University 
+🌍 Based in Toronto, Canada
 
 I build machine learning systems end to end — framing the problem, wrangling the data, training and evaluating the model, and shipping it somewhere it can actually be used. My background is in mathematics and statistics, and it's the part I lean on most: it's usually the difference between a model that looks good on a validation set and one that holds up once real data hits it.
 
