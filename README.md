@@ -12,15 +12,14 @@ I build machine learning systems end to end — framing the problem, wrangling t
 
 💻 What I work on:
 
-Machine Learning — designing, training, and fine-tuning models; feature engineering, hyperparameter search, and the evaluation work that tells you whether an improvement is real or noise.<br>
-AI Engineering — taking models from notebook to production: APIs, containerization, cloud deployment, and monitoring the things that quietly drift after launch.<br>
-Data Science — exploratory analysis, statistical modeling, and visualization, with an emphasis on making the results legible to the people who have to act on them.
+* Machine Learning — designing, training, and fine-tuning models; feature engineering, hyperparameter search, and the evaluation work that tells you whether an improvement is real or noise.
+* AI Engineering — taking models from notebook to production: APIs, containerization, cloud deployment, and monitoring the things that quietly drift after launch.
+* Data Science — exploratory analysis, statistical modeling, and visualization, with an emphasis on making the results legible to the people who have to act on them.
 
 🔍 Currently exploring:
 
-Solidity and full-stack Web3 — smart contract development and the tooling around decentralized applications.
-
-Always learning, always building. If you're working on something interesting, I'd like to hear about it.
+Solidity and full-stack Web3 — smart contract development and the tooling around decentralized applications.<br>
+Always learning, always building. If you're working on something interesting, I'd like to hear about it.<br>
 
 Driven by a passion for technology and a commitment to continuous learning, I am dedicated to pushing the boundaries of AI and data science.
 * ✉️ Reach me at [bamarasingam@gmail.com](mailto:bamarasingam@gmail.com)
