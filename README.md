@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Brandon Amarasingam!</h1>
 
 <p align="center" style="font-size: 30px;">
-  <strong>AI/ML Engineer & Data Scientist</strong>
+  <strong>AI Engineer & Data Scientist</strong>
 </p>
 
 🎓 Master of Science (MS) in AI & ML @ Purdue University (in progress)<br>
